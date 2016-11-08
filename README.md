@@ -21,7 +21,7 @@ Which contains whiptail.  then run:
 
 `./query_modules.sh`
 
-From the delete_modules directory.
+From the query_modules directory.
 
 Contribution / Collaboration
 ---
